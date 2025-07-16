@@ -30,9 +30,7 @@ This is a simple command-line calculator built using Python. It can perform basi
 2. Run using the following command:
 
 ```bash
-python calculator.py
-📷 Screenshot
-(Add your image here later if you wish)
+python calculator.
 
 📄 License
 MIT License
